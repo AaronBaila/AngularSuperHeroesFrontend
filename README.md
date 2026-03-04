@@ -1,5 +1,7 @@
 # Prueba técnica Frontend:
-Este proyecto es una prueba técnica que realicé para una entrevista.
+Este proyecto es una prueba técnica frontend (no tiene backend ni BBDD) que realicé para una entrevista.
+<br>
+Consiste en mostrar x SuperHeroes y poder filtrarlos segun si son de Marvel o DC, ademas de poder filtrar por nombre del SuperHeroe
 
 # Como configurar el proyecto para visualizarlo en tu ordenador:
 
